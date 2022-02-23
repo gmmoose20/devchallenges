@@ -2,15 +2,11 @@
   "name": "404-not-found",
   "version": "1.0.0",
   "description": "<!-- Please update value in the {}  -->",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "browser-sync start --server --files='./*.html,./*.css'"
   },
   "keywords": [],
-  "author": "Gm Dev",
-  "license": "MIT",
-  "devDependencies": {
-    "browser-sync": "^2.27.7",
-    "prettier": "^2.5.1"
-  }
+  "author": "Gm Somera",
+  "license": "MIT"
 }
